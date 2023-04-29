@@ -4,9 +4,6 @@ This is a service for the experimental implementation of the Edit Distance Algor
 
 Page for testing : http://chromato99.com
 
-# Update plan
-✔I'm planning to animate the footprints in order.
-
 # Description
 This is a web service to shorten the search time to locate a book when using the Gachon University library.
 
